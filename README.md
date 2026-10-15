@@ -143,7 +143,7 @@ Applicant tracking systems parse a CV into structured fields. They tend to strug
 
 ## 💬 Feedback
 
-
+ 
 Found a bug or have an idea? Open an [issue](../../issues) or use the live site. Contributions to the *documentation* are welcome; the application source is private.
 
 ## 📜 License
