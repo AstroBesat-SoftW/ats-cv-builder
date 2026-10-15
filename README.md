@@ -148,6 +148,3 @@ Found a bug or have an idea? Open an [issue](../../issues) or use the live site.
 ## 📜 License
 
 The text and images in this repository are © SotsTech. All rights reserved. The application is not open source.
-
-
-
