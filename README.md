@@ -114,7 +114,7 @@ Applicant tracking systems parse a CV into structured fields. They tend to strug
 
 > No tool can promise how every ATS will behave, but a simple, structured, text-first CV is the best starting point.
 
-## 🔐 Privacy & safety
+## 🔐 🔐 Privacy & safety 🔐 🔐
 
 - No real e-mail address or phone number is required to sign up.
 - Passwords are stored hashed, never in plain text.
