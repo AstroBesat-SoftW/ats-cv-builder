@@ -2,7 +2,7 @@
 
 <img src="docs/images/social-preview.png" alt="CV Builder — ATS-friendly one-page CVs with a personal link, QR code, PDF export and an AI career assistant" width="100%">
 
-# CV Builder *
+# CV Builder **
 
 **ATS-friendly, one-page CVs for students and new graduates — published on a personal link, shared with a QR code, saved as a clean PDF, and explained by an AI career assistant.**
 
